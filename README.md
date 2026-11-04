@@ -1,0 +1,1 @@
+The files are generated using data from [corpus-sme](https://github.com/giellalt/corpus-sme) and models from [lang-sme](https://github.com/giellalt/lang-sme)
