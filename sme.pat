@@ -38065,7 +38065,6 @@ Be-rit-
 Be-rit-An-ne
 Be-rit-El-len
 Ber-kes
-Ber-lè-me
 Ber-le-våg
 Ber-lii-dnii
 Ber-liin-na
@@ -196175,7 +196174,6 @@ Jonn
 Jon-na
 Jon-ne
 Jon-ny
-Jon-quièr
 Jóns-dót-tir
 Jons-Ear-ke
 Jon-sen
@@ -331748,7 +331746,6 @@ Sáŋ-gár-ruos-sa
 šáŋ-ra-vii-do-da-ga
 šáŋ-ra-vii-do-dat
 SA-O
-Sã-o
 SA-oah-pa-hus-čá-lus
 SA-O-čoahk-ki-mat
 SA-O-čoahk-ki-mis
@@ -399051,7 +399048,6 @@ Aa-hlin
 Åhn-ber-ga
 Å-hren
 Å-hrén
-Å-hrèn
 Å-hré-na
 ÅH-TA
 ÅI
