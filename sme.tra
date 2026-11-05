@@ -1,23 +1,33 @@
- 3 3 ^ 
+ 3 3   
  a A  
  á Á  
+ à À  
+ â Â  
+ ã Ã  
  b B  
  c C  
  č Č  
+ ç Ç  
  d D  
  đ Đ  
  e E  
+ é É  
+ è È  
+ ë Ë  
  f F  
  g G  
  h H  
  i I  
+ í Í  
  j J  
  k K  
  l L  
  m M  
  n N  
+ ñ Ñ  
  ŋ Ŋ  
  o O  
+ ó Ó  
  p P  
  q Q  
  r R  
@@ -26,6 +36,7 @@
  t T  
  ŧ Ŧ  
  u U  
+ ü Ü  
  v V  
  w W  
  x X  
@@ -37,3 +48,7 @@
  ø Ø  
  ö Ö  
  å Å  
+ –  
+ /  
+ :  
+ ’  
