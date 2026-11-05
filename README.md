@@ -12,4 +12,9 @@ cat norm-corpus-uniq.txt | hfst-lookup lang-sme/tools/hyphenators/hyphenator-gt-
 ```
 This is further adapted to `sme.dic` by replacing circumflexes `^` and pound signs `#` with hyphens `-`.
 
-`sme.tra` specifies left and right hyphen min values (per now 3) and that the hyphenation mark in `sme.dic` is `^`, in addition to defining the alphabet.
+`sme.tra` specifies left and right hyphen min values (per now 2), in addition to defining the alphabet.
+
+The patgen program asks for input, a suggestion would be:
+hyph_start, hyph_finish: 1 9
+pat_start, pat_finish: 1 15
+good weight, bad weight, threshold: 1 1 1
