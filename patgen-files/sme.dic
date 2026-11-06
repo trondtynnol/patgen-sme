@@ -1,4 +1,3 @@
-
 A
 a
 Á
@@ -86,8 +85,8 @@ ab-o-ri-giin-na-čuo-ja-na-sa
 ab-o-ri-giin-nai-de
 ab-o-ri-giin-nain
 ab-o-ri-giin-na-jo-đi-head-dji
-abo-ri-giin-na-laš
 ab-o-ri-giin-na-laš
+abo-ri-giin-na-laš
 ab-o-ri-giin-nat
 ab-o-ri-gi-ná-la
 ab-o-ri-gi-ná-laid
@@ -846,6 +845,7 @@ ad-ver-bi-á-laid
 ad-ver-bi-á-lan
 ad-ver-bi-á-lat
 ad-ver-bii
+ad-ver-sa-tii-va
 ad-vo-káh-ta
 ad-vo-káh-ta-dil-li
 ad-vo-káh-ta-fit-no-da-ga
@@ -912,6 +912,8 @@ af
 Afa-nas-je-va
 Afa-nas-je-vai
 afa-sii-ja
+afa-sii-ja-dut-kan-pro-šeavt-tas
+afa-sii-ja-is-ko-siid
 afa-sii-ja-ráđ-đi
 Af-fairs
 af-fekt
@@ -920,6 +922,7 @@ af-fek-tii-van
 af-fek-tii-va-vuo-đas
 af-fek-tiiv-va
 af-fik-san
+af-fivs-sas
 af-fri-káh-ta
 af-fri-káh-taid
 af-fri-káh-tain
@@ -1856,6 +1859,7 @@ Ah-ti-saa-ri
 áht-tán
 áht-tán-mear-ri
 aht-te
+aht-ti
 áht-ti
 aht-to-hal-lan
 áht-tu
@@ -2541,6 +2545,7 @@ ai-ge
 ái-ge-ád-ji
 ái-ge-ad-vear-ba
 ái-ge-ad-vear-ban
+ái-ge-ad-ver-bi-á-la
 ái-ge-ad-ver-bi-á-laid
 ái-ge-ad-ver-bi-á-lat
 ái-ge-ái-go-da-ga
@@ -7599,6 +7604,7 @@ al-go-ritm-ma-laš
 ál-go-vi-đi-bávt-ti
 ál-go-vie-suid
 ál-go-vist-tit
+ál-go-vo-ká-la
 ál-go-vuđ-đui
 ál-go-vu-đo-laš
 ál-go-vuođ-đu
@@ -7793,7 +7799,9 @@ alit-stá-luid
 alit-stá-lut
 alit-suoi-dne-jeak-kit
 alit-suoi-dni
+alit-suorg-gis
 Alit-vá-ri
+alit-vearb-bain
 alit-vir-gái
 alit-virg-gii-de
 alit-vu-đot
@@ -8276,10 +8284,15 @@ al-la-skuvl-lat-ge
 al-la-stáh-tu-sa
 al-la-stan-dár-da
 al-la-stan-dárd-da
+al-la-suor-gá-sis
 al-lat
 ál-lat
 al-la-tek-no-lo-ga-laš
+al-lat-frek-ven-ta-tiiv-va
 al-la-tii-va
+al-lat-suorg-gá-du-sa
+al-lat-suorg-gá-du-said
+al-lat-suorg-gis
 al-lat-vuh-tii
 al-lat-vuo-đa
 al-lat-vuo-đa-gái-bá-du-said
@@ -8320,6 +8333,7 @@ al-leg-ro-há-miin
 al-leg-ro-há-mis
 al-leg-ro-há-mit
 al-leg-ro-háp-mi
+al-leg-ro-oat-nun
 al-leg-ro-vo-ká-la
 al-leg-ro-vo-ká-laid
 Ál-le-jáv-ri
@@ -9918,10 +9932,12 @@ ana-ly-sa-guovl-lus
 ana-ly-sa-han
 ana-ly-sáh-tor
 ana-ly-sáh-to-ra
+ana-ly-sáh-to-rat
 ana-ly-sáh-to-rii
 ana-ly-sáh-to-riid
 ana-ly-sáh-to-rii-guin
 ana-ly-sáh-to-riin
+ana-ly-sáh-to-ris
 ana-ly-sáh-tor-pro-grám-mat
 ana-ly-said
 ana-ly-sai-de
@@ -10023,6 +10039,7 @@ ana-ly-se-ren-barg-gus
 ana-ly-se-ren-ceal-ka-giid
 ana-ly-se-ren-dá-siin
 ana-ly-se-ren-gask-oap-min
+ana-ly-se-ren-gohč-ču-mat
 ana-ly-se-ren-me-to-da
 ana-ly-se-ren-me-to-daid
 ana-ly-se-ren-mo-deal-la
@@ -17031,6 +17048,7 @@ at-tes-te-re-mii
 at-tes-te-ren
 at-tes-te-ret
 at-tes-tii
+at-tes-tit
 at-tes-tu-va
 at-ti
 at-ti-det-tiin
@@ -17942,6 +17960,7 @@ avis
 ávn-nas-vál-ljen
 ávn-nas-vuođ-đu
 ávn-njal-da-gai-guin
+á-vo-ká-la
 ÁVP
 AVP:s
 Áv-skár
@@ -19177,6 +19196,7 @@ ba-ga-dal-la-miin
 ba-ga-dal-la-min
 ba-ga-dal-la-mis
 ba-ga-dal-lan
+ba-ga-dal-lán
 ba-ga-dal-lan-ái-gi
 ba-ga-dal-lan-ap-pa-ráh-ta
 ba-ga-dal-lan-ap-pa-ráh-tas
@@ -21263,6 +21283,7 @@ bái-sto-juv-von
 báist-tes
 bái-tá
 bái-ta-gis
+bái-ta-lit
 bái-tán
 bái-te
 bái-tet
@@ -26658,6 +26679,7 @@ bár-ro-doad-dji
 bár-ro-fá-mu
 bár-ro-fá-muin
 bár-ro-fáp-mo-rust-te-gat
+bár-ro-ruo-đuid
 bár-ro-ruo-đut
 bár-ro-ruoh-tu
 bár-ro-stuh-ča
@@ -26778,6 +26800,7 @@ bar-ta-sa-jii-de
 bar-ta-sa-jiin
 bar-ta-sa-jis
 bar-ta-sa-jit
+bár-ta-šuv-vat
 bár-ta-šuv-ve
 bar-tat
 bar-ta-tom-ta-oh-can
@@ -38722,6 +38745,10 @@ boast-to-ád-de-ju-mit
 boast-to-ád-de-jup-mái
 boast-to-ád-de-jup-mi
 boast-to-ád-de-jup-min
+boast-to-a-na-lii-sa-tii-pa
+boast-to-a-na-liis-sa
+boast-to-a-na-liis-said
+boast-to-a-na-liis-sat
 boast-to-a-nu
 boast-to-a-nus
 boast-to-árv-voš-tal-la-miid
@@ -38761,6 +38788,7 @@ boast-to-gie-đa-hal-la-ma
 boast-to-go-va
 boast-to-go-va-hal-la-mat
 boast-to-guv-lui
+boast-to-há-mi
 boast-to-ilm-mu-hus-sii
 boast-to-ip-már-dus
 boast-to-ip-már-du-sa
@@ -41134,6 +41162,7 @@ bok-ten
 bok-tet
 bok-ti
 bok-ti-ba
+bok-ti-lit
 bok-ti-ma
 bok-ti-me
 bok-ti-mii
@@ -41290,6 +41319,7 @@ bomb-baid
 bomb-bain
 bom-be-goah-tit
 bom-be-goh-te
+bom-be-hal-lat
 bom-be-jed-je
 bom-be-juv-vo
 bom-be-juv-vo-jed-je
@@ -41336,6 +41366,7 @@ bon-ja-da
 bon-ja-dea-mes
 bon-ja-dii
 bon-ja-dit
+bon-ja-git
 bon-ja-hal-la-mis
 bon-jai
 Bon-já-kas
@@ -41533,7 +41564,9 @@ bo-ra-hal-lan
 bo-ra-hal-lat
 bo-ra-hal-le
 bo-ra-hal-let
+bo-ra-hal-lo-juv-vo-goah-tit
 bo-ra-hal-lo-juv-von
+bo-ra-hal-lo-juv-vot
 bo-ra-hal-lon
 bo-ra-hal-lot
 bo-ra-han
@@ -42207,6 +42240,7 @@ bor-ra-go-đii
 bor-ra-goh-tet
 bor-ral
 bor-ra-lan
+bor-ra-lit
 bor-ra-luv-van
 bor-ra-luv-vat
 bor-ra-ma
@@ -47355,6 +47389,7 @@ buvt-ta-laš-vuoh-ta
 buvt-tá-le
 buvt-tá-lii
 buvt-ta-list-ta
+buvt-ta-lit
 buvt-ta-mál-les
 buvt-ta-mál-liid
 buvt-ta-már-ka-niid
@@ -51782,6 +51817,7 @@ cealk-ka-lah-tui-de
 cealk-ka-lah-tuin
 cealk-ka-lah-tus
 cealk-ka-lah-tut
+cealk-ka-láh-tut
 cealk-ka-la-sá-hus
 cealk-ka-la-sá-hu-sai-guin
 cealk-ká-le
@@ -53315,6 +53351,7 @@ cie-lu-sin
 čie-ŋal-vuoh-ta
 čie-ŋu
 čie-ŋui
+čie-ŋun
 čie-ras-luoh-kái-guin
 čie-ras-ta
 čie-ras-ta-lai-met
@@ -53404,6 +53441,7 @@ cie-lu-sin
 čie-ru
 čie-ru-det-tiin
 čie-ru-hii
+čie-ru-hit
 čie-rui
 čie-rui-met
 čie-run
@@ -53743,6 +53781,7 @@ Ci-ko-tic
 čil-ge-juv-vui
 čil-ge-keah-tes
 čil-ge-keaht-tá
+čil-ge-keaht-tá-jin
 čil-ge-ma
 čil-ge-mat
 čil-ge-me
@@ -59837,6 +59876,7 @@ dahk-kin
 dáhk-kin
 dahk-ki-nam-ma
 dahk-ki-no-men
+dahk-ki-no-me-nat
 dahk-ki-no-me-niid
 dahk-ki-rievt-tá-laš
 dahk-ki-rol-la
@@ -59932,6 +59972,7 @@ dah-kun
 dáh-kun
 dah-ku-na-mat
 dah-ku-nam-ma
+dah-ku-no-men
 dáh-kun-ruovd-dis
 dah-ku-rá-jáid
 dah-ku-rás-se-gied-di
@@ -63291,6 +63332,7 @@ dáp-pe-or-ru
 dáp-pil
 da-ra
 dá-raid
+da-rai-dit
 dá-rain
 dá-rait
 dár-ba-ha
@@ -63534,6 +63576,7 @@ Dar-ja
 dár-je
 dárj-ja
 darj-je-sá-me-gie-la
+darj-je-sá-me-gie-las
 darj-je-sá-me-giel-la
 darj-je-sáp-me-lač-čain
 dárj-jo-dan-doi-bmii
@@ -65008,6 +65051,7 @@ dás-se-mol-sun-juo-gu
 dás-se-mol-sun-min-sta-rat
 dás-se-mol-sun-min-sta-riid
 dás-se-mol-sun-ov-dá-nea-mi
+dás-se-mol-sun-ráid-dus
 dás-se-mol-sun-vál-ljen
 dás-sen
 dás-sen-ái-ra-sa
@@ -66264,6 +66308,7 @@ dead-do-sad-ji
 dead-do-stáv-val
 dead-do-stáv-va-la
 dead-do-stáv-va-liid
+dead-do-stáv-va-liin
 dead-do-stáv-va-lis
 dead-do-struk-tuvr-ra
 dead-do-suorg-gis
@@ -68482,10 +68527,13 @@ de-mi-li-ta-ri-se-re-ma
 de-mi-li-ta-ri-se-re-mis
 de-mi-li-ta-ri-se-ret
 de-mi-nu-tii-va
+de-mi-nu-tii-va-suor-gá-sa
 de-mi-nu-tii-va-suor-gá-siin
 de-mi-nu-tii-va-suorg-gá-dus
+de-mi-nu-tii-va-suorg-gá-du-sain
 de-mi-nu-tii-va-suorg-gis
 de-mi-nu-tiiv-va
+de-mi-nu-tiiv-vas
 DE-MO
 de-mo-grá-fa-lač-čat
 de-mo-grá-fa-laš
@@ -68654,6 +68702,7 @@ de-par-te-meant-tat
 De-par-te-men-tet
 de-par-te-men-tii
 de-par-te-men-tii-ge
+de-pen-dean-sa
 de-pen-dean-sa-di-a-grám-main
 de-pen-dean-sa-gov-vo-sat
 de-pen-deans-sa
@@ -68684,9 +68733,11 @@ de-pre-šuvn-nat
 de-pu-ta-šuvn-na
 De-rek
 de-ret
+de-ri-va-šuvn-na
 de-ri-va-šuvn-nas
 de-ri-va-šuvn-nat
 de-ri-va-tii-va
+de-ri-ve-re
 de-ri-ve-re-juv-von
 de-ri-ve-re-mat
 der-pe
@@ -68704,6 +68755,8 @@ de-sent-ra-li-se-re-juv-von
 de-sent-ra-li-se-ren
 de-sent-ra-li-se-ret
 de-ser-te-ren
+de-si-de-ra-tii-va
+de-si-de-ra-tiiv-va
 De-si-de-ri-a
 de-sign
 de-sig-na
@@ -71939,6 +71992,7 @@ dih-tor-lat-nja
 dih-tor-lat-njii
 dih-tor-láv-de-god-di
 dih-tor-láv-de-god-din
+dih-tor-ling-vis-tan
 dih-tor-ling-vis-tih-kas
 dih-tor-ling-vis-tihk-kii
 dih-tor-ling-vist-ta-laš
@@ -73219,6 +73273,8 @@ dip-lo-ma-tii-jii
 dip-ma
 dip-má
 dip-ma-bá-bir
+dip-ma-bearp-main
+dip-ma-bearp-mat
 dip-ma-da
 dip-ma-dead-dji
 dip-ma-dit
@@ -73309,6 +73365,12 @@ di-ri-gean-ta-go-luin
 di-ri-ge-ret
 DI:s
 dis
+di-sam-bi-gu-áh-tor
+di-sam-bi-gu-áh-to-ra
+di-sam-bi-gu-áh-to-rii
+dis-am-bi-gu-e-re-juv-von
+di-sam-bi-gue-re-ma
+di-sam-bi-gue-re-mii
 dis-da-ga
 dis-da-gaid
 dis-da-gas
@@ -73473,6 +73535,7 @@ dis-tri-bu-šuvn-na-lač-čat
 dis-tri-bu-šuvn-na-laš
 dis-tri-bu-šuvn-nas
 dis-tri-bu-šuvn-nat
+dis-tri-bu-tii-va
 di-strik-ta
 dist-rik-ta-biv-do-ear-re-ort-ne-ga
 dist-rik-ta-biv-do-ear-re-ort-net
@@ -74141,6 +74204,7 @@ divt-tis-teap-mi
 divt-tis-tit
 di-vu-ha
 di-vu-han-bái-kái
+di-vu-has-tit
 di-vu-hit
 di-vu-hus
 di-vu-hu-said
@@ -76838,8 +76902,10 @@ doalv-vu-han-stoah-kan
 doalv-vu-hat
 doalv-vu-head-dji
 doalv-vu-head-djit
+doalv-vu-hea-me
 doalv-vu-hea-mes
 doalv-vu-hea-mis
+doalv-vu-heap-mi
 doalv-vu-hed-je
 doalv-vu-he-miin
 doalv-vu-hit
@@ -79200,6 +79266,7 @@ dork-kas-gár-du-ma
 dork-kat
 do-ro-diš-goah-tán
 do-ro-dit
+do-ro-hal-lat
 do-ron
 do-ros-taht-tán
 do-ros-tal-let
@@ -83770,6 +83837,7 @@ dup-pal-vuo-đa
 dup-pal-vuoh-ta
 du-ra
 du-ran
+du-ra-tii-va
 Dur-ban
 Dur-ba-na
 Dur-ba-nis
@@ -84022,6 +84090,7 @@ dut-ka-mu-ša
 dut-ka-mu-šaid
 dut-ka-mu-šai-de
 dut-ka-mu-šai-dea-set
+dut-ka-mu-šai-dis
 dut-ka-mu-šai-dnai
 dut-ka-mu-šaid-nai
 dut-ka-mu-šai-guin
@@ -85859,6 +85928,9 @@ eah-pe-per-sovn-na-laš
 eah-pe-po-li-tih-ka-lač-čat
 eah-pe-po-li-tih-ka-laš
 eah-pep-rak-tih-ka-laš
+eah-pep-ro-duk-tii-va
+eah-pep-ro-duk-tii-van
+eah-pep-ro-duk-tiiv-vat
 eah-pe-ráv-ve-haht-tit
 eah-pe-re-a-list-ta-lač-čat
 eah-pe-re-a-list-ta-laš
@@ -93516,6 +93588,7 @@ Eber
 Eber-hard
 eb-mos
 eb-mui
+e-boast-ta
 EC
 ECDC
 ECHR
@@ -95083,6 +95156,7 @@ EM-RI-Pa
 EM-RI-Pii
 EMU
 EN
+e:n
 en
 ENAG
 ena-laš
@@ -96138,8 +96212,8 @@ es-pán-nja-gie-las
 es-pán-nja-giel-la
 es-pán-nja-gil-lii
 Es-pán-njain
-espán-nja-lač-čat
 es-pán-nja-lač-čat
+espán-nja-lač-čat
 Es-pán-njas
 Es-pas
 Es-pe-lid
@@ -96456,6 +96530,7 @@ ETT
 et-tet-vii-dne-liht-ti
 et-tet-viin-ni
 et-tet-viin-niin
+et-vearb-bat
 ety-mo-lo-ga-lač-čat
 ety-mo-lo-ga-laš
 ety-mo-lo-gii-ja
@@ -101632,6 +101707,7 @@ fierp-mit
 fier-ra
 fier-rá
 fier-ra-go-đii
+fier-ra-guš-šat
 fier-ra-la
 fier-ra-lii
 fier-ra-lin
@@ -104066,6 +104142,7 @@ Frant-ze-nis
 Fran-zén
 frá-sa
 frá-said
+frá-sai-de
 frá-sai-guin
 frá-sat
 Fra-ser
@@ -104124,11 +104201,15 @@ frek-vean-sa-mud-den
 frek-vean-san
 frek-vean-sat
 frek-veans-sa
+frek-veans-sain
 frek-veans-sa-lač-čat
 frek-veans-sas
 frek-vean-ta
 frek-veant-tat
+frek-ven-ta-tii-va
+frek-ven-ta-tii-vii
 frek-ven-ta-tiiv-va
+frek-ven-ta-tiiv-vas
 Frem-o-ver
 Fremsk-ritts-par-ti-et
 Fret-te
@@ -110077,6 +110158,7 @@ gar-rá
 gár-ra
 gár-rá
 gar-ra-báh-pi-ris
+gar-ra-bearp-mat
 gar-ra-bieg-gan
 gar-ra-biek-kat
 gar-ra-dál-ki
@@ -111444,6 +111526,7 @@ Gas-kin
 gás-kin-vi-git
 Gas-kis
 Gas-kit
+gas-kit
 gás-kit
 gask-ka
 gask-ka-áig-ge
@@ -111454,6 +111537,7 @@ gask-ka-ha-lai
 gásk-ká-hal-la-mis
 gásk-ká-hal-lan
 gásk-ká-hal-lan-háv-vi
+gask-ká-hal-lat
 gásk-ká-hal-lat
 gásk-ka-hal-len
 gask-ka-hea-met
@@ -118206,6 +118290,7 @@ ge-ne-tii-va-ak-ku-sa-tii-va-háp-mái
 ge-ne-tii-va-há-mis
 ge-ne-tii-va-há-mit
 ge-ne-tii-va-háp-mái
+ge-ne-tii-va-háp-mi
 ge-ne-tiiv-va
 ge-ne-tiiv-vas
 Ge-netz
@@ -118984,6 +119069,7 @@ gie-đa-hal-lo-jed-je
 gie-đa-hal-lo-jit
 gie-đa-hal-lo-juv-vo
 gie-đa-hal-lo-juv-vo-ba
+gie-đa-hal-lo-juv-vo-goah-tit
 gie-đa-hal-lo-juv-vo-je
 gie-đa-hal-lo-juv-vo-jed-je
 gie-đa-hal-lo-juv-vo-jit
@@ -119126,6 +119212,7 @@ gied-de-la-bo-ra-to-ri-an
 gied-de-lád-dje-mii
 gied-de-lái-gui
 gied-de-lavn-njiid
+gied-de-ma-ri-gie-la
 gied-de-me-to-daid
 gied-de-muor-je-buvt-ta-dea-mi
 gied-de-muorj-ji
@@ -120829,6 +120916,7 @@ giel-la-dor-vo-čál-liin
 giel-la-dor-vo-čál-lin
 giel-la-dor-vo-čál-lis
 giel-la-dovd-du
+giel-la-dovd-dus
 giel-la-dov-du
 giel-la-dov-dui
 giel-la-du-jiid
@@ -122418,6 +122506,7 @@ giel-la-o-fe-lač-čat
 giel-la-o-fe-laš
 giel-la-o-fe-laž-žan
 giel-la-oh-ca-miid
+giel-la-ohp-pii
 giel-la-ohp-pii-de
 giel-la-ohp-pui
 giel-la-oi-dnui
@@ -123604,6 +123693,7 @@ giev-ru-dii
 giev-ru-dit
 giev-ru-divč-čii
 giev-ru-duv-von
+giev-run
 giev-rut
 giev-va-gis
 giev-vu-dead-dji
@@ -125232,6 +125322,7 @@ gir-je-dahk-ki
 gir-je-dárk-kis-tan-vuoh-ki
 gir-je-dárk-kis-tea-mit
 gir-je-dárk-kis-tu-sas
+gir-je-dá-ro-giel
 gir-je-dá-ro-gie-la
 gir-je-dá-ro-gie-lain
 gir-je-dá-ro-gie-las
@@ -127445,6 +127536,7 @@ goar-ru-goh-te
 goar-ru-goh-ten
 goar-ru-goh-tet
 goar-ruin
+goar-ru-lit
 goar-ru-ma
 goar-ru-mat
 goar-ru-me
@@ -135933,6 +136025,7 @@ guo-le-hea-mit
 Guo-le-heap-mái
 guo-le-heap-min
 guo-le-his
+guo-le-huht-tit
 guo-le-huv-vat
 guo-le-in-du-strii-jii
 guo-le-já-fui-guin
@@ -138123,6 +138216,7 @@ guovd-dáš-vá-sá-hus
 guovd-dáš-vir-ge-doaim-ma-ha-ga
 guovd-dáš-vir-ge-doaim-ma-ha-gaid
 guovd-dáš-vir-ge-doaim-ma-ha-gat
+guovd-dáš-vo-ká-la
 guovd-dáš-vu-giin
 guovd-dáš-vuođ-đo-do-ku-mean-ta
 guovd-dáš-vuoh-ta
@@ -140669,6 +140763,8 @@ hálb-bi-mu-sain
 hálb-bi-mu-sat
 hálb-bi-mus-san
 hálb-bit
+hálb-bos-tit
+hálb-bus-tit
 hál-bi
 hál-bin
 hál-bi-vuo-đa
@@ -140678,6 +140774,7 @@ hál-bot
 hál-bu-da
 hál-bu-dan
 hál-bu-ma
+hál-but
 Hál-dái
 hál-dái
 Háld-da
@@ -142593,6 +142690,7 @@ háp-me-ka-te-go-rii-jaid
 háp-me-ka-te-go-rii-jain
 háp-me-ma-nu-á-la
 háp-me-nár-ve-vie-ru
+háp-me-num-mir
 háp-me-oah-pa
 háp-me-oahp-pa
 háp-me-ov-dan-buk-ti-miid
@@ -143697,12 +143795,15 @@ háv-skit
 háv-ski-vuh-tii
 háv-ski-vuo-đa
 háv-ski-vuo-đas
+hávsk-ko-had-dat
 hávsk-ko-ha-lai-met
 hávsk-ko-hal-lan-eah-ke-diid-da
 hávsk-ko-hal-lat
 hávsk-ko-hal-let
+hávsk-ku-had-dat
 hávsk-ku-han
 hávsk-ku-heap-mi
+hávsk-ku-hit
 háv-sko-hal-let
 háv-sku-da
 havs-sa-šan
@@ -144346,6 +144447,7 @@ heai-tin-si-vaid
 heai-tin-si-vat
 heai-tin-vá-ras
 heai-tit
+heait-tá-hal-lat
 heait-tan
 heait-tán
 heait-tá-še
@@ -144640,6 +144742,7 @@ heaŋ-gá-šald-dit
 heaŋ-gá-šal-di
 heaŋ-ga-san
 heaŋ-ga-sii
+heaŋ-ga-sit
 heaŋ-gat
 heaŋ-gát
 heaŋg-go
@@ -147261,6 +147364,7 @@ ho-mo-ge-na-laš
 ho-mo-ge-na-laš-vuo-đa
 ho-mo-ge-na-lea-mos
 ho-mo-ge-nat
+ho-mo-grá-fat
 ho-moi-de
 ho-mo-kul-tuvr-rain
 ho-mo-liht-tu
@@ -147553,6 +147657,7 @@ HSH
 HTA
 HTM
 HTML
+html
 http
 HTTU
 HTU
@@ -148397,6 +148502,9 @@ hup-man-di-lá-laš-vuo-đa
 hup-man-di-lá-laš-vuo-đai-de
 hup-man-di-lá-laš-vuo-đain
 hup-man-di-lá-laš-vuo-đas
+hup-man-dil-li
+hup-man-dov-dá-ma
+hup-man-dov-dá-miin
 hup-man-dov-dán
 hup-man-dov-dán-pro-grám-ma
 hup-man-dov-dán-pro-grám-main
@@ -148406,6 +148514,7 @@ hup-man-gie-la
 hup-man-gie-laid
 hup-man-gie-lain
 hup-man-gie-las
+hup-man-giel-kor-pus
 hup-man-giel-la
 hup-man-giel-lan
 hup-man-gil-lii
@@ -148816,7 +148925,7 @@ HØR
 Hörn-ån
 Hö-ven-mark
 Hø-vik
-H-øy-brå-ten
+Høy-brå-ten
 Høy-bukt-mo-e-nii
 Høy-dahl
 Hø-ye
@@ -150324,6 +150433,7 @@ Ii-sak-ki-pää
 Ii-sko
 Ii-sko-lom-po-los
 Ii-sku
+ii-suorg-gi-duv-von
 IIT
 Iit-ta-la
 Iit-ti
@@ -151380,6 +151490,11 @@ in-fi-ni-tii-va
 in-fi-ni-tii-va-ceal-ka-gis
 in-fi-ni-tii-va-cealk-kan
 in-fi-ni-tii-va-gea-va-hea-mi
+in-fi-ni-tii-va-gea-žus
+in-fi-ni-tii-va-gea-žu-sin
+in-fi-ni-tii-va-geh-čo-sa
+in-fi-ni-tii-va-geh-čo-siin
+in-fi-ni-tii-va-geh-čo-sis
 in-fi-ni-tii-va-há-miid
 in-fi-ni-tii-va-há-mis
 in-fi-ni-tii-va-háp-mi
@@ -151629,6 +151744,8 @@ in-klu-de-ren-barg-gus
 in-klu-de-ren-doah-pa-ga
 in-klu-de-ret
 in-koa-tii-va
+in-koa-tii-va-suor-gá-sat
+in-koa-tiiv-va
 in-kon-sek-vean-ta
 in-kon-sek-veant-ta
 in-kor-po-re-re
@@ -153615,6 +153732,8 @@ Itá-li-as
 Ita-mar
 it-ban
 it-bat
+ite-ra-tii-va
+ite-ra-tii-va-kon-ti-nu-a-tii-va
 iTet
 ITF
 it-ge
@@ -156089,6 +156208,7 @@ jeđ-đe-miin
 jeđ-đe-min
 jeđ-đe-mis
 jeđ-đen
+jeđ-đes-tit
 jeđ-đet
 jeđ-đii
 Je-di-ne
@@ -157323,6 +157443,7 @@ jiet-na-ny-áns-said
 jiet-na-oas-se-mear-ri
 jiet-na-oas-tin
 jiet-na-ort-net
+jiet-na-ovt-tas-teap-mi
 jiet-na-pro-fiil-lat
 jiet-na-pro-grám-ma
 jiet-na-ráhk-ka-nu-sain
@@ -158320,6 +158441,7 @@ jo-de
 jo-đe
 jo-đe-det-tiin
 jo-đes
+jo-đes-tuv-vat
 jo-đe-žan
 jo-đi
 jo-đi-det-tiin
@@ -161817,6 +161939,7 @@ juol-gá-siid
 juol-ge-ái-ti
 juol-ge-bá-ra
 juol-ge-bealg-gis
+juol-ge-ču-ju-hu-sa
 juol-ge-dávt-tiid
 juol-ge-dávt-tit
 juol-ge-deh-kiid
@@ -164654,7 +164777,10 @@ Kaup-pi-nen
 kaur-na-gie-las
 kau-sa-tii-va
 kau-sa-tii-va-suor-gá-sa
+kau-sa-tii-va-suor-gá-siid
 kau-sa-tii-va-suor-gá-siin
+kau-sa-tiiv-va
+kau-sa-tiiv-vaid
 Kaus-ti-nen
 Kau-to
 Kau-to-kei-no
@@ -166374,6 +166500,8 @@ kom-pro-mis-sii
 komp-ro-mis-sii
 Kom-sa
 Kom-sai
+ko-na-tii-va
+ko-na-tiiv-va
 kond
 kon-deans-sa
 kon-dem-ne-re-juv-von
@@ -167157,8 +167285,13 @@ kon-so-nán-ta-kom-bi-na-šuvn-naid
 kon-so-nán-ta-kom-bi-na-šuvn-nat
 kon-so-nán-ta-loahp-pa
 kon-so-nán-ta-mád-da-gat
+kon-so-nán-ta-mád-da-gii
+kon-so-nán-ta-mád-da-giid
+kon-so-nán-ta-mád-da-giid-da
 kon-so-nán-ta-mád-da-giin
 kon-so-nán-ta-mád-da-gis
+kon-so-nán-ta-mát-ta
+kon-so-nán-ta-mát-tan
 kon-so-nán-ta-meark-kain
 kon-so-nán-ta-mer-ken-vuo-gi
 kon-so-nán-ta-mol-sa-šu-mi
@@ -167694,6 +167827,10 @@ kon-ti-nen-tá-la-sok-ke-lis
 kon-ti-nen-tii
 kon-tin-gean-ta-boa-đut
 kon-tin-gean-ta-mák-su
+kon-ti-nu-a-tii-va
+kon-ti-nu-a-tii-va-suorg-gá-du-said
+kon-ti-nu-a-tii-va-suorg-gá-du-sat
+kon-ti-nu-a-tii-vii
 kon-ti-nu-i-teah-ta
 kon-ti-nu-i-teh-ta
 kon-ti-nu-i-teh-tain
@@ -168300,12 +168437,15 @@ korp-sa-doarj-ja
 korp-sa-miel-lah-tut
 kor-pus
 kor-pu-sa
+kor-pus-a-na-liis-sa
 kor-pus-a-na-ly-se-ren-mo-deal-la
 kor-pu-sat
 kor-pu-sii
+kor-pu-siid
 kor-pu-siid-da
 kor-pu-siin
 kor-pu-sis
+kor-pus-ling-vis-tih-ka
 kor-pus-ling-vis-tihk-kii
 kor-pus-plá-ne-ma
 kor-pus-plá-ne-mis
@@ -171843,6 +171983,7 @@ kva-li-teaht-ta-doaim-mai-de
 kva-li-teaht-ta-e-ro-hus
 kva-li-teaht-ta-in-di-káh-to-riid
 kva-li-teaht-ta-o-đas-tus
+kva-li-teaht-ta-sihk-ka-ras-tin
 kva-li-teaht-ta-sihk-ka-ras-to-juv-von
 kva-li-teaht-ta-soah-pa-muš
 kva-li-teaht-ta-soah-pa-mu-šain
@@ -174574,12 +174715,14 @@ láh-pa-da
 láh-pa-dan
 láh-pa-dea-ba
 láh-pa-ded-je
+láh-pá-hal-lat
 lah-pa-miid-da
 lah-pas-tud-dat
 lah-pat
 láh-pát
 láh-pe
 Láh-pi
+láh-pi-hit
 láh-pii-met
 Láh-pis
 Láh-po-luob-ba-la
@@ -175780,6 +175923,7 @@ lak-tá-san-ve-jo-laš-vuo-đat
 lak-tá-se
 lak-tá-sea-ba
 lak-tá-sead-dji
+lak-tá-sea-me
 lak-tá-sea-men
 lak-tá-sea-mi
 lak-tá-sea-mis
@@ -179557,6 +179701,7 @@ Le-ka
 lek-kiin
 Lek-sa
 Lek-sas
+lek-se-ma
 lek-se-maid
 lek-se-mai-de
 lek-se-main
@@ -179566,7 +179711,9 @@ lek-se-mat
 lek-si-ká-la
 lek-si-ká-la-lač-čat
 lek-si-ká-la-laš
+lek-si-ka-li-se-re-juv-vo-jit
 lek-si-ka-li-se-re-juv-von
+lek-si-ka-li-se-ret
 lek-si-ko-grá-fa
 lek-si-ko-grá-fa-laš
 lek-si-ko-gra-fii-ja
@@ -179621,15 +179768,18 @@ Le-me-hiin
 Le-me-his
 Le-met
 lem-ma
+lem-ma-dá-sis
 lem-ma-há-mi
 lem-ma-há-mis
 lem-ma-há-mit
 lem-ma-háp-mi
+lem-ma-háp-min
 lem-mai
 lem-maid
 lem-mai-de
 lem-ma-kan-di-dáh-taid
 lem-ma-kan-di-dáh-tat
+lem-ma-list-tut
 lem-man
 lem-mas
 lem-mat
@@ -179809,6 +179959,7 @@ lev-vet
 Le-wi-na
 Le-wi-nii
 Le-wis
+lexc
 Lez
 lež-že
 lež-žet
@@ -180275,10 +180426,14 @@ lih-ka-dan-vát-tu
 lih-ka-dan-vát-tuid
 lih-ka-dan-vát-tut
 lih-ka-dan-vearb-baid
+lih-ka-dan-vearb-bai-de
+lih-ka-dan-vearb-bain
+lih-ka-dan-vearb-bat
 lih-ka-dan-ve-jo-laš-vuo-đaid
 lih-ka-dan-ve-jo-laš-vuoh-ta
 lih-ka-dan-vie-rut
 lih-ka-dan-vu-giid
+lih-ka-dan-vuo-gi
 lih-ka-dan-vuo-git
 lih-ka-dat
 lih-ka-dead-djái
@@ -181268,6 +181423,7 @@ lii-kos-teap-mi
 lii-kos-ted-je
 lii-kos-te-miid
 lii-kos-tu-vai
+lii-kos-tuv-vat
 lii-kot
 lii-kot-go
 lii-kui
@@ -181824,6 +181980,7 @@ lis-tan
 lis-ta-pro-seas-sa
 lis-tá-válg-gaid
 lis-te
+lis-te-juv-vo
 lis-te-juv-vo-jed-je
 lis-te-juv-von
 lis-te-mii
@@ -182590,6 +182747,7 @@ loahp-pa-kon-fe-ráns-sas
 loahp-pa-kon-klu-šuv-dna
 loahp-pa-kon-klu-šuvn-naid
 loahp-pa-kon-so-nán-ta
+loahp-pa-kon-so-nán-tii
 loahp-pa-kon-so-nánt-ta
 loahp-pa-kon-so-nánt-taid
 loahp-pa-kon-so-nánt-tat
@@ -186395,6 +186553,7 @@ luod-da-ned-je
 luod-da-ne-miid
 luod-da-ne-mii-de
 luod-da-nii
+luod-da-nit
 luod-da-ok-ta-vuo-đa
 luod-da-ok-ta-vuo-đaid
 luod-da-ok-ta-vuo-đas
@@ -194175,6 +194334,7 @@ máŋg-ga-čeard-da-laš
 máŋg-ga-čeard-da-laš-ser-vo-da-ga
 máŋg-ga-čeard-da-laš-vuo-đa
 máŋg-ga-čie-gat
+máŋg-ga-čilg-go-laš
 máŋg-ga-dá-fo-gis
 máŋg-ga-dá-fot
 máŋg-ga-dá-fot-vuh-tii
@@ -196986,6 +197146,7 @@ mat-ta
 mát-ta
 mát-ta-af-rih-ká-laš
 mát-ta-a-me-rih-ká-laš
+mát-ta-ávn-nas
 mát-ta-beal-de
 mát-tá-beal-de
 mát-ta-bea-le
@@ -197006,6 +197167,8 @@ mát-ta-duod-da-riid-da
 mát-ta-ea-mi-ál-bmot-nis-so-nat
 mát-ta-eat-na-miin
 mát-ta-fylk-kain
+mát-ta-gái-bá-du-said
+mát-ta-gái-bá-du-sat
 mát-ta-gálv-vuid
 mát-ta-gát-ti
 mát-ta-gát-tis
@@ -197027,6 +197190,7 @@ mát-ta-guovl-lus
 mát-ta-guovl-lut
 mát-ta-guov-lu
 mát-ta-guv-lui
+mát-ta-há-mi
 mát-ta-hám-man
 mát-ta-his
 mát-ta-his-torj-já-his
@@ -197037,7 +197201,9 @@ Mát-ta-jávr-ri
 Mát-ta-jávr-ris
 mát-ta-jiek-ŋa-áh-pái
 mát-ta-joavk-ku
+mát-ta-joavk-kut
 mát-ta-joav-ku
+mát-ta-jov-kui
 mát-ta-ju-lev
 mát-ta-kon-so-nán-tii
 mát-ta-kon-so-nánt-tat
@@ -197117,6 +197283,9 @@ mát-tar-ead-ni
 mát-tar-ead-nin
 mát-tar-et-nii-de
 mát-ta-rid-dui
+mát-ta-riev-da-ma
+mát-ta-riev-da-mat
+mát-ta-riev-da-miid
 mát-ta-riik-kai-guin
 mát-ta-rit-tu
 mát-ta-rit-tuid
@@ -197175,6 +197344,7 @@ mát-ta-sá-me-guovl-lu
 mát-ta-sá-me-guovl-luid
 mát-ta-sá-me-guovl-luin
 mát-ta-sá-me-guovl-lus
+mát-ta-sá-me-guovl-lut
 mát-ta-sá-me-guov-lu
 mát-ta-sá-me-guv-lui
 mát-ta-sá-me-kul-tuvr-ra
@@ -199473,10 +199643,12 @@ meark-ka-šu-mit
 meark-ka-šu-mit-ge
 meark-ka-šup-mái
 meark-ka-šup-me-al-bmo-ne-miid
+meark-ka-šup-me-čil-ge-hu-sa
 meark-ka-šup-me-e-ro-hu-said
 meark-ka-šup-me-e-ro-hu-sain
 meark-ka-šup-me-hi-er-ar-kii-jas
 meark-ka-šup-me-ka-te-go-rii-ja
+meark-ka-šup-me-ka-te-go-rii-jain
 meark-ka-šup-me-nup-pás-tus
 meark-ka-šup-me-oahp-pa
 meark-ka-šup-me-vuo-gá-dah-kan
@@ -206172,6 +206344,7 @@ mo-meant-tai-guin
 mo-meant-tain
 mo-meant-tas
 mo-meant-tat
+mo-men-tá-na
 mo-men-tii
 mom-sa
 mom-sa-buh-ta-deap-mi
@@ -206479,10 +206652,12 @@ mor-fo-fo-no-lo-ga-laš
 mor-fo-fo-no-lo-gii-ja
 mor-fo-lo-ga-lač-čat
 mor-fo-lo-ga-laš
+mor-fo-lo-ga-laš-syn-távs-sa-laš
 mor-fo-lo-gii-ja
 mor-fo-lo-gii-jan
 mor-fo-lo-gii-ja-rik-kis
 mor-fo-lo-gii-jas
+mor-fo-lo-gii-ja-tes-tii
 mor-fo-syn-ták-sa
 mor-fo-syn-ták-sii
 mor-fo-syn-távs-sa-laš
@@ -208208,6 +208383,7 @@ muoh-ta-uđ-đa-sa
 muoh-ta-uđ-đa-siid
 muoh-ta-vá-riid
 muoh-ta-viel-ga-din
+muoh-tes-tuv-vat
 muoh-to-čoh-kat
 muoh-to-dávt-tit
 muoh-to-geah-čas-ta-gaid
@@ -210445,6 +210621,7 @@ nái-ta-lit
 nái-tal-keah-tes
 nái-tal-keah-tes-bár-ra-got-tii-de
 nái-tal-keaht-tá
+nái-tal-stuv-vat
 nái-te
 nái-ti-ma
 nái-ti-mat
@@ -212699,6 +212876,7 @@ neaht-ta-alm-mu-hea-mis
 neaht-ta-alm-mu-hea-mit
 neaht-ta-alm-mu-heap-mái
 neaht-ta-alm-mu-heap-mi
+neaht-ta-ar-kiiv-vas
 neaht-ta-ar-tihk-ka-lat
 neaht-ta-ar-tihk-ka-liid
 neaht-ta-áš-ši
@@ -215723,9 +215901,11 @@ njok-kar-dan
 njo-lá
 njolg-gás-teap-mi
 njolg-gás-tii
+njolg-gás-tit
 njolg-gii-da
 njolg-gii-dan
 njolg-gii-dii
+njolg-gii-dit
 njol-lo
 njol-lot
 njo-lon
@@ -216741,6 +216921,7 @@ njuo-va-ha-gas
 njuo-va-ha-gat
 njuo-va-hah-kan
 njuo-va-hah-kii
+njuo-va-hal-lat
 njuo-va-hat
 njuo-va-hat-áš-ši
 njuo-va-hat-dil-li
@@ -217240,6 +217421,8 @@ Noam
 noar-sa
 noars-sa
 Noa-tun
+noav-ka-lit
+noav-ki
 noavk-kit
 noavk-ku-han
 noavk-ku-hit
@@ -217365,6 +217548,7 @@ nohk-ka-dan
 nohk-ka-dan-doavt-tir
 nohk-ka-dea-mi
 nohk-ka-deap-mái
+nohk-ka-dit
 nohk-ka-duv-vo
 nohk-ka-goah-tán
 nohk-ka-me
@@ -217450,6 +217634,7 @@ nol-las
 nol-la-sad-jin
 nol-la-sub-me-speal-lun
 nol-la-suođ-đa-miin
+nol-la-suorg-gi-deap-mi
 nol-lát
 nol-la-vear-ru
 nol-lii
@@ -217499,6 +217684,8 @@ no-me-niin
 no-me-nin
 no-me-nis
 no-men-kla-tuv-ra
+no-men-mád-da-giid-da
+no-men-mád-da-gis
 no-men-mát-ta
 no-men-sárg-gus
 no-men-sár-go-sa
@@ -217923,6 +218110,7 @@ nor-me-re-juv-von-gie-las
 nor-me-re-juv-vo-šii
 nor-me-re-juv-vot
 nor-me-re-juv-vui
+nor-me-re-keah-tes
 nor-me-re-ma
 nor-me-re-mat
 nor-me-re-mii
@@ -223678,6 +223866,7 @@ oahp-po-girj-jii-de
 oahp-po-girj-jii-guin
 oahp-po-girj-jiin
 oahp-po-girj-jis
+oahp-po-girj-jis-tis
 oahp-po-girj-jit
 oahp-po-go-luid
 oahp-po-go-lui-de
@@ -224977,12 +225166,14 @@ oain-ne
 oain-ne-det-tiin
 oain-ne-keah-tes
 oain-ne-keaht-tá
+oain-nes-ta
 oain-nes-tan
 oain-nes-tit
 oain-ni
 oain-ni-hii
 oain-ni-hit
 oain-ni-huv-von
+oain-nis-ta
 oain-nis-tan
 oain-nis-tit
 oain-nit
@@ -225537,6 +225728,7 @@ oak-ko-det-tiin
 oak-ku-det-tiin
 oak-kui
 oak-kui-met
+oak-kun
 Oak-lan-das
 oak-sás
 oak-se-báh-čin-áv-ži
@@ -227681,6 +227873,7 @@ ob-ba-dead-dun
 ob-ba-e-tih-ka-laš
 ob-ba-ge
 ob-ba-gor-dne-buv-ru
+ob-ba-go-va
 ob-ba-guol-lin
 ob-ba-lač-čat
 ob-ba-lág-gá-liig-gi
@@ -233979,6 +234172,7 @@ omus
 omut
 ON
 On
+o:n
 on
 ONA
 Ona
@@ -237374,6 +237568,7 @@ ov-dan-buk-tin-lak-ta-ga
 ov-dan-buk-tin-lat-nja
 ov-dan-buk-tin-leair-ra
 ov-dan-buk-tin-mál-le
+ov-dan-buk-tin-mál-les
 ov-dan-buk-tin-mál-liid
 ov-dan-buk-tin-mál-liin
 ov-dan-buk-tin-mál-lin
@@ -241415,6 +241610,9 @@ pas-sii-va-lá-gan
 pas-sii-va-mor-fe-ma
 pas-sii-van
 pas-sii-va-ov-da-mear-ka
+pas-sii-va-suor-gá-siid
+pas-sii-va-suor-gá-siin
+pas-sii-va-suorg-gis
 pas-sii-va-suorg-gi-sin
 pas-sii-va-vear-ba
 pas-sii-va-vies-so-dás-sái
@@ -241876,6 +242074,7 @@ per-ma-neant-ta
 Per-ma-nent
 Per-ma-nen-ta
 Per-mi-nov
+per-mis-sii-va
 per-mi-šuv-dna
 per-mi-šuv-dna-ái-gi
 per-mi-šuv-dna-ái-go-da-ga
@@ -244496,6 +244695,7 @@ pre-po-si-šuvn-naid
 pre-po-si-šuvn-nat
 pres
 pre-sean-sa
+pre-sean-sa-há-miid
 pre-sean-sa-há-mit
 pre-sean-sa-háp-mi
 pre-sean-san
@@ -245123,6 +245323,7 @@ pro-duk-ta-ovd-di-dea-mi
 pro-duk-ta-ovd-di-deap-mi
 Pro-duk-ter
 pro-duk-tii-va
+pro-duk-tii-van
 pro-duk-tii-va-vuo-đa
 pro-duk-tii-va-vuo-đas
 pro-duk-tiiv-va
@@ -245130,6 +245331,11 @@ pro-duk-tiiv-va-lač-čat
 pro-duk-tiiv-va-laš
 pro-duk-tiiv-va-mus
 pro-duk-tiiv-vat
+pro-duk-ti-vi-teah-ta
+pro-duk-ti-vi-teaht-ta
+pro-duk-ti-vi-teaht-ta-in-deak-sa
+pro-duk-ti-vi-teaht-ta-mih-tuid
+pro-duk-ti-vi-teaht-tan
 pro-duk-ti-vi-teh-ta
 pro-duk-ti-vi-teh-ta-pro-grám-ma
 pro-duk-ti-vi-teh-tas
@@ -246737,6 +246943,7 @@ pum-pet
 pun-da
 pund-da
 pun-ja-bi
+punk-tu-á-la
 Puo-li-tai-val
 Puo-li-tai-va-lii
 Puos-ka-ri
@@ -249034,6 +249241,7 @@ ráhč-čá
 ráhč-ča-mu-šaid
 ráhč-čan
 ráhč-čat
+rahč-čit
 rahč-čo-juv-vo
 ráhč-čo-juv-vo
 rahč-čo-juv-von
@@ -251975,6 +252183,7 @@ rav-da-guovl-lu-suoh-ka-nin
 rav-da-guovl-lut
 rav-da-iv-dni
 rav-da-kon-so-nán-ta
+rav-da-kon-so-nán-tii
 rav-da-kon-so-nánt-tat
 rav-da-láig-giid
 rav-da-láig-git
@@ -252006,6 +252215,7 @@ ráv-da-teavst-tat
 rav-da-te-mán
 rav-da-vác-cá-hah-kii
 rav-da-vás-tá-du-said
+rav-da-vo-ká-la
 rav-da-vuovd-dit
 ravd-da
 Rávd-dá
@@ -255126,6 +255336,7 @@ re-si-dean-sa-pro-grám-ma
 re-si-deans-sas
 re-si-den-sii
 re-si-proh-ka
+re-si-proh-ka-suorg-gá-du-said
 re-sir-ku-le-re-jit
 re-sir-ku-le-re-juv-von
 re-sir-ku-le-ren
@@ -260420,6 +260631,7 @@ roahk-ke-ro-đuid
 roahk-ke-ruo-đuid
 roahk-ke-ruo-đui-de
 roahk-ke-ruo-đui-guin
+roahk-ke-ruo-đuin
 roahk-ke-ruo-đut
 roahk-ke-ruos-sat
 Roahk-ki
@@ -268238,6 +268450,7 @@ sá-me-dig-ge-jo-đi-hed-djii-guin
 sá-me-dig-ge-jov-kui
 sá-me-dig-ge-juol-lu-du-sai-de
 sá-me-dig-ge-ka-ná-lii
+sá-me-dig-ge-kor-pu-sis
 sá-me-dig-ge-lá-ga
 sá-me-dig-ge-lá-gai-de
 sá-me-dig-ge-lá-gain
@@ -271227,6 +271440,7 @@ sát-ne-e-ko-no-mi-se-re-ma
 sát-ne-e-ro-hu-sai-guin
 sát-ne-e-ro-hu-sat
 sát-ne-fo-no-lo-gii-ja
+sát-ne-frag-meant-tat
 sát-ne-frid-dja-vuh-tii
 sát-ne-frid-dja-vuo-đa
 sát-ne-frid-dja-vuo-đa-or-ga-ni-sa-šuv-dna
@@ -271390,6 +271604,7 @@ sát-ne-há-miin
 sát-ne-há-mis
 sát-ne-há-mit
 sát-ne-háp-mái
+sát-ne-háp-me-dá-sis
 sát-ne-háp-mi
 sát-ne-háp-min
 sát-ne-hár-je-hal-la-miid
@@ -271586,7 +271801,9 @@ sát-ne-ráh-ka-dea-mi
 sát-ne-ráh-ka-dea-mis
 sát-ne-ráh-ka-deap-mi
 sát-ne-ráh-ka-de-miid
+sát-ne-ráh-ka-dus
 sát-ne-ráh-ka-du-sa
+sát-ne-ráh-ka-du-sas
 sát-ne-rá-ju
 sát-ne-rá-juin
 sát-ne-rá-jus
@@ -273078,6 +273295,7 @@ seam-ma-gie-lat
 seam-ma-go
 seam-má-go
 seam-ma-han
+seam-ma-háp-má-saš
 seam-máid
 seam-máin
 seam-ma-lá-gan
@@ -280622,6 +280840,7 @@ ská-laid
 ská-lain
 ská-lait
 Ska-land
+ska-lá-ra
 ská-las
 ská-lás
 ská-lat
@@ -281538,6 +281757,7 @@ skuf-fai-de
 skuf-fas
 skuf-fii
 skug-ga
+skuh-čat
 skuhč-če
 skuhč-če-jit
 skuhč-čen
@@ -283456,6 +283676,7 @@ Skuv-van-vá-ri
 Skuv-van-vá-ris
 Skuv-van-vár-rái
 Skuv-van-vár-ri
+sku-žai-dit
 sku-žas
 sku-žil
 sku-žis-ta
@@ -283493,6 +283714,7 @@ Sla-ba-ko-va
 šlád-djái
 šlád-djás
 šlád-dját
+šlád-dje
 šlád-dje-jit
 šlád-dje-juv-vo
 šlád-dje-juv-vo-jit
@@ -285888,7 +286110,14 @@ sog-ge-barg-gut
 sog-ge-vo-ká-la
 sog-ge-vo-ká-laid
 sog-ge-vo-ká-lan
+sog-ge-vo-ká-la-oat-nu-ma
+sog-ge-vo-ká-la-riev-da-ma
+sog-ge-vo-ká-la-riev-da-mat
+sog-ge-vo-ká-la-riev-da-miid
+sog-ge-vo-ká-la-riev-dan
+sog-ge-vo-ká-las
 sog-ge-vo-ká-lat
+sog-ge-vo-ká-lii
 sog-gi
 so-giid
 so-gii-de
@@ -286496,6 +286725,7 @@ so-ja-han-min-sta-riin
 so-ja-han-minst-tar
 so-ja-han-minst-tar-hár-je-hu-sat
 so-ja-han-minst-ta-rin
+so-ja-han-mor-fe-maid
 so-ja-han-mor-fe-mai-de
 so-ja-han-mor-fe-mat
 so-ja-han-mor-fo-lo-gii-ja
@@ -286503,10 +286733,12 @@ so-ja-han-mor-fo-lo-gii-jas
 so-ja-han-njuolg-ga-du-said
 so-ja-han-njuolg-ga-du-sat
 so-ja-han-oah-pa
+so-ja-han-oahp-pa
 so-ja-han-ohp-pii
 so-ja-han-ov-da-meark-kat
 so-ja-han-pa-ra-dig-ma
 so-ja-han-pa-ra-dig-maid
+so-ja-han-pa-ra-dig-main
 so-ja-han-pa-ra-dig-mas
 so-ja-han-pa-ra-dig-mat
 so-ja-han-sárg-gus
@@ -293019,6 +293251,7 @@ su
 sub-árk-ta-laš
 su-bit
 su-bi-tii-va
+su-bi-tii-va-suor-gá-sa
 subj
 sub-jeak-ta
 sub-jeak-ta-feail-lat
@@ -293333,6 +293566,7 @@ suf-fá-joavk-ku
 suf-fás
 suf-fá-sá-gas-tal-la-ma
 suf-fik-sa
+suf-fik-san
 suf-fivs-said
 SU-FUR
 SU-FU-Rii
@@ -295824,12 +296058,15 @@ suor-ge-vuo-gá-da-gain
 suorg-gá-dus
 suorg-gá-du-sa
 suorg-gá-du-said
+suorg-gá-du-sai-de
 suorg-gá-du-sain
 suorg-gá-du-sas
 suorg-gá-du-sat
 suorg-gá-du-sat-ge
 suorg-gá-dus-san
+suorg-gá-dus-tiip-pa
 suorg-gá-dus-tiip-paid
+suorg-gá-dus-tiip-pain
 suorg-ga-ha
 suorg-ga-hah-tii
 suorg-ga-haht-tá
@@ -295847,10 +296084,29 @@ suorg-ge
 suorg-gi
 suorg-gi-da
 suorg-gi-daht-tin-ve-jo-laš-vuo-đat
+suorg-gi-dan
+suorg-gi-dan-gea-žus
+suorg-gi-dan-gea-žu-sin
+suorg-gi-dan-geh-čo-sa
 suorg-gi-dan-geh-čo-sat
+suorg-gi-dan-geh-čo-siid
 suorg-gi-dan-há-mii-guin
+suorg-gi-dan-mád-da-ga
+suorg-gi-dan-mád-da-gat
+suorg-gi-dan-mát-ta
+suorg-gi-dan-mor-fo-lo-gii-ja
+suorg-gi-dan-mor-fo-lo-gii-jii
+suorg-gi-dan-ovt-ta-dat
+suorg-gi-dan-pro-seas-sat
 suorg-gi-dan-suf-fik-sa
+suorg-gi-dan-tii-pa
 suorg-gi-dan-ve-jo-laš-vuo-đain
+suorg-gi-dan-vuo-gá-da-ga
+suorg-gi-dan-vuo-gá-da-gas
+suorg-gi-dan-vuo-gá-dah-kii
+suorg-gi-dan-vuo-gá-dat
+suorg-gi-dan-vuoh-ki
+suorg-gi-dan-vuoh-kin
 suorg-gi-de
 suorg-gi-dea-mi
 suorg-gi-dea-mis
@@ -295869,6 +296125,7 @@ suorg-gi-ohp-piin
 suorg-gis
 suorg-gis-ge
 suorg-gi-sin
+suorg-gis-ov-dan-buk-ti-ma
 suorg-gis-tea-set
 suorg-gis-tis
 suorg-git
@@ -296395,6 +296652,7 @@ suv-rut
 šuv-va-mii
 šuv-va-min
 šuv-va-mis
+šuv-vat
 suv-ve
 suv-vet
 šuv-vet
@@ -297087,11 +297345,14 @@ ták-sta-las-sá-nea-mi
 ták-sta-re-gu-la-tiiv-vaid
 ták-stii
 ták-ta
+ták-ta-a-na-lii-sa
 ták-ta-dead-du
 ták-ta-loahp-pa
 ták-ta-mer-ke-mat
 ták-ta-min-sta-ra
 ták-tan
+ták-ta-po-si-šuvn-nai-de
+ták-ta-ráh-ka-du-sa
 ták-ta-rá-ji
 ták-ta-struk-tuvr-rat
 ták-ta-tii-pa
@@ -297960,6 +298221,7 @@ tearp-ma-lá-gan
 tearp-ma-ovd-di-deap-mi
 tearp-mas
 tearp-mat
+tearp-ma-vál-lje-ma-sas
 teas-ta
 teas-ta-boh-to-sa
 teas-ta-ču-ju-hu-said
@@ -298700,6 +298962,7 @@ ter-mi-no-lo-gii-ja-fá-ga-laš
 ter-mi-no-lo-gii-ja-gár-ge-deap-mi
 ter-mi-no-lo-gii-ja-ga-žal-da-gai-guin
 ter-mi-no-lo-gii-ja-gir-ji
+ter-mi-no-lo-gii-ja-girj-jiin
 ter-mi-no-lo-gii-jai
 ter-mi-no-lo-gii-jaid
 ter-mi-no-lo-gii-jai-de
@@ -299552,6 +299815,7 @@ tran-si-vi-teh-ta-vát-tis-vuo-đat
 tran-skri-be-re
 tran-skri-be-re-det-tiin
 tran-skri-be-re-jin
+tran-skri-be-re-juv-vo
 tran-skri-be-re-juv-vo-jed-je
 tran-skri-be-re-juv-von
 tran-skri-be-re-juv-vot
@@ -300642,8 +300906,6 @@ U
 u
 UA
 UArc-tic
-UArc-tic
-UArc-ti-ca
 UArc-ti-ca
 UAR:s
 UB
@@ -302470,6 +302732,7 @@ uv-dnii
 uv-dnon
 Uv-du-jo-ga
 Uv-du-vuo-nas
+u-vearb-bai-de
 uv-hre
 uv-hret
 uv-ja
@@ -302709,6 +302972,7 @@ vád-jo-leh-pet
 vád-jo-le-miin
 vád-jo-let-tiin
 vád-jo-lii
+vád-jo-liš-goah-tit
 vád-jo-lit
 vád-jo-livč-čen
 vád-jo-livč-čii-met
@@ -308769,7 +309033,9 @@ vá-rá
 vá-ra-árv-voš-tal-lán
 vá-ra-eas-ta-deap-mi
 vá-ra-his
+va-ra-huht-tit
 vá-ra-hu-sain
+va-ra-huv-vat
 vá-raid
 va-rai-de
 vá-rai-de
@@ -310704,6 +310970,7 @@ váz-zii-de
 váz-ziin
 váz-zil
 váz-zi-la
+váz-zi-laht-tit
 váz-zi-lan
 váz-zi-lea-ba
 váz-zi-lead-nu
@@ -312203,7 +312470,10 @@ vea-rat
 vear-ba
 vear-ba-a-bes-sii-va
 vear-ba-áig-git
+vear-ba-a-na-liis-sat
+vear-ba-a-speavt-tat
 vear-ba-dah-ku
+vear-ba-doaim-ma
 vear-ba-gea-va-hea-mes
 vear-ba-gea-va-heap-mái
 vear-ba-gea-va-heap-mi
@@ -312220,9 +312490,11 @@ vear-ba-háp-min
 vear-ba-joavk-kui-de
 vear-ba-joavk-kus
 vear-ba-jov-kui
+vear-ba-ka-piht-ta-lis
 vear-ba-lek-se-ma
 vear-ba-mád-da-ga
 vear-ba-mád-da-gii
+vear-ba-mád-da-giid-da
 vear-ba-mád-da-giin
 vear-ba-mád-da-gis
 vear-ba-mát-ta
@@ -312247,7 +312519,13 @@ vear-ba-sub-stan-tii-va
 vear-ba-sub-stan-tiiv-va
 vear-ba-sub-stan-tiiv-vaid
 vear-ba-suor-gá-sat
+vear-ba-suor-gá-siid
+vear-ba-suor-gá-siid-da
 vear-ba-suor-gá-siin
+vear-ba-suorg-gá-du-sa
+vear-ba-suorg-gá-du-said
+vear-ba-suorg-gá-du-sat
+vear-ba-suorg-gis
 vear-ba-vuo-gá-dat
 vearb-ba
 vearb-baid
@@ -313905,6 +314183,7 @@ vie-gai-de
 vie-gai-det
 vie-gai-ga
 vie-gai-met
+vie-gal-daht-tit
 vie-gan
 vie-gaš
 vie-ga-šed-je
@@ -314873,6 +315152,7 @@ vihk-ket
 vihk-kii-guin
 vihk-ko-juv-vo
 vihk-ko-juv-von
+vihk-ko-juv-vot
 vihk-ko-juv-vui
 vihk-kut
 Vih-ko
@@ -316423,6 +316703,7 @@ viš-šat
 vis-se
 viš-še
 vis-ses
+vis-ses-lá-gan
 viš-šet
 viš-ši
 vis-si-ris
@@ -316860,7 +317141,12 @@ vo-ká-la-kom-bi-na-šuvn-nat
 vo-ká-la-laš
 vo-ká-la-loahp-pa
 vo-ká-la-loahp-pa-saš
+vo-ká-la-mád-da-gat
+vo-ká-la-mád-da-gii
+vo-ká-la-mád-da-giid
+vo-ká-la-mád-da-giid-da
 vo-ká-la-mát-ta
+vo-ká-la-mát-tan
 vo-ká-la-meark-kain
 vo-ká-la-mol-sa-šud-da-mat
 vo-ká-la-mol-sa-šud-dan
@@ -316868,6 +317154,7 @@ vo-ká-la-mol-sa-šu-miid
 vo-ká-la-mol-sa-šu-mit
 vo-ká-la-mol-sa-šup-mi
 vo-ká-la-mol-su-ma
+vo-ká-la-mol-su-min
 vo-ká-la-mu-sih-ka
 vo-ká-la-mu-sihk-ka-ár-bi
 vo-ká-la-mu-sihk-ka-šlá-jaid
@@ -316882,6 +317169,8 @@ vo-ká-la-po-si-šuvn-nat
 vo-ká-la-rád-ju
 vo-ká-la-rav-da
 vo-ká-la-riev-da-ma
+vo-ká-la-riev-da-mat
+vo-ká-la-riev-da-min
 vo-ká-la-riev-da-mis
 vo-ká-la-riev-dan
 vo-ká-las
@@ -317886,6 +318175,7 @@ vuođ-đo-gir-je-vuoi-gat-vuoh-ta
 vuođ-đo-gir-ji
 vuođ-đo-gir-jin
 vuođ-đo-girj-já-laš-vuh-tii
+vuođ-đo-girj-já-laš-vuo-đas
 vuođ-đo-girj-já-laš-vuoh-ta
 vuođ-đo-girj-ji
 vuođ-đo-girj-jiid
@@ -318190,6 +318480,8 @@ vuođ-đo-mávs-so-laš-vuh-tii
 vuođ-đo-mávs-su
 vuođ-đo-mea-ris
 vuođ-đo-meark-kas
+vuođ-đo-meark-ka-šu-mi
+vuođ-đo-meark-ka-šu-miid
 vuođ-đo-meark-ka-šup-mái
 vuođ-đo-meark-ka-šup-mi
 vuođ-đo-meark-ka-šup-min
@@ -318439,6 +318731,7 @@ vuođ-đo-sá-mo-je-das
 vuođ-đo-sá-ni
 vuođ-đo-sá-niid
 vuođ-đo-sá-nii-de
+vuođ-đo-sá-nis
 vuođ-đo-sáp-me-laš
 vuođ-đo-sáp-me-laš-vuoh-ta
 vuođ-đo-sárg-gus
@@ -318705,6 +318998,8 @@ vuođ-đo-vát-tis-vuoh-tan
 vuođ-đo-veah-ka-dah-kii
 vuođ-đo-veahk-ke-neav-vut
 vuođ-đo-veahk-ke-vár-ri
+vuođ-đo-vear-ba
+vuođ-đo-vearb-bain
 vuođ-đo-vih-kin
 vuođ-đo-vo-ká-la
 vuođ-đo-vo-ká-laid
@@ -320910,9 +321205,11 @@ vuo-lá-geah-či
 vuo-lá-gea-že
 vuo-lá-gea-ži
 vuo-lá-gea-žis
+vuo-la-has
 vuo-la-ha-sai-guin
 vuo-la-ha-sain
 vuo-la-ha-sat
+vuo-la-has-tit
 vuo-lai
 vuo-laid
 vuo-la-lač-čai-dis-guin
@@ -321651,9 +321948,11 @@ vuol-le-hál-la-mat
 vuol-le-hál-la-mis
 vuol-le-háŋ-ke-jead-djiid
 vuol-le-háŋ-ke-jed-djiid
+vuol-le-joavk-ku
 vuol-le-joavk-kui-de
 vuol-le-joavk-kui-guin
 vuol-le-joavk-kuin
+vuol-le-joavk-kut
 vuol-le-joav-ku
 vuol-le-joav-kun
 vuol-le-juh-ko-sat
@@ -321705,8 +322004,10 @@ vuol-le-lo-gut
 vuol-le-loh-kun
 vuol-le-luoh-káid
 vuol-le-luoh-káin
+vuol-le-luohk-kán
 vuol-le-mál-lii-guin
 vuol-le-meark-kaid
+vuol-le-meark-ka-šu-mit
 vuol-le-meark-kat
 Vuol-len
 vuol-le-na-ma-hu-sain
@@ -321773,10 +322074,12 @@ vuol-le-ruh-ta-dea-mi
 vuol-le-sáh-cu
 vuol-le-šat-to-laš-sa-jii-de
 vuol-le-šat-to-laš-vuo-đa
+vuol-le-sá-zuin
 vuol-le-sealg-gi
 vuol-le-sealg-gis
 vuol-le-seaŋ-ga
 vuol-le-siid-duid
+vuol-le-siid-dui-de
 vuol-le-siid-dut
 vuol-le-skáhp-po-jead-djái
 vuol-le-skuv-la
@@ -325553,13 +325856,13 @@ Waa-ler
 Waa-rum
 Waa-sa
 x
-x-i
-x-iv
-x-ix
+xi
+xiv
+xix
 Yan-gon
 yd
-Y-eah
-Y-ear
+Yeah
+Year
 Yel-low-kni-fe
 Yel-low-kni-fei
 Yel-low-kni-fes
@@ -325573,27 +325876,27 @@ YI
 Yin
 YK:id
 YK:n
-Y-LE
-Y-le
-Y-lei
-Y-LE:in
-Y-leis-ra-dio
-Y-leis-ra-dioi
-Y-leis-ra-dion
-Y-leis-ra-dios
-Y-LEL
-Y-LE:s
-Y-les
+YLE
+Yle
+Ylei
+YLE:in
+Yleis-ra-dio
+Yleis-ra-dioi
+Yleis-ra-dion
+Yleis-ra-dios
+YLEL
+YLE:s
+Yles
 YLHS
-Y-LI
-Y-li-kos-ki
-Y-li-kos-kis
-Y-li-ky-röi
-Y-li-luo-ma
-Y-li-nam-pa
-Y-li-nie-mi
-Y-li-ta-lo
-Y-li-vies-kai
+YLI
+Yli-kos-ki
+Yli-kos-kis
+Yli-ky-röi
+Yli-luo-ma
+Yli-nam-pa
+Yli-nie-mi
+Yli-ta-lo
+Yli-vies-kai
 Yl-läs
 Yl-lä-sa
 Yl-läs-duod-da-ra
@@ -325606,7 +325909,7 @@ yl-läs-lač-čaid
 Yl-läs-tun-tu-ri
 YL-VA
 Yl-va
-Y-lö-jär-vi
+Ylö-jär-vi
 YM
 Yng-var
 Yng-ve
@@ -325621,18 +325924,18 @@ Yor-ka
 Yor-kan
 Yor-kas
 Yor-kii
-Y-oung
-Y-outh
-Y-ou-Tu-be
-Y-ou-Tu-bes
-Y-ou-Tu-bii
+Young
+Youth
+You-Tu-be
+You-Tu-bes
+You-Tu-bii
 YP
-Y-ran
+Yran
 Yr-jö
 YS
 y:s
 YSS
-Y-sta-da
+Ysta-da
 Yt-re
 Yt-re-berg
 Yt-re-ber-ga
@@ -325641,8 +325944,8 @@ Yt-rings-fri-hets-kom-mi-sjo-ne-na
 Yt-te-ren
 Yu-ko-na
 Yu-ko-nis
-Y-VA
-Y-von-ne
+YVA
+Yvon-ne
 Z
 z
 Ž
