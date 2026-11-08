@@ -1,27 +1,3 @@
-+A+Attr
-+A+Der/Comp+Sg+Nom
-+A+Der/Comp+Sg+Gen
-+A+Der/Comp+Sg+Acc
-+A+Der/Comp+Sg+Ill
-+A+Der/Comp+Sg+Loc
-+A+Der/Comp+Sg+Com
-+A+Der/Comp+Pl+Nom
-+A+Der/Comp+Pl+Gen
-+A+Der/Comp+Pl+Acc
-+A+Der/Comp+Pl+Ill
-+A+Der/Comp+Pl+Loc
-+A+Der/Comp+Pl+Com
-+A+Der/Comp+Ess
-+A+Der/Superl+Sg+Nom
-+A+Der/Superl+Sg+Gen
-+A+Der/Superl+Sg+Acc
-+A+Der/Superl+Sg+Ill
-+A+Der/Superl+Sg+Loc
-+A+Der/Superl+Sg+Com
-+A+Der/Superl+Pl+Nom
-+A+Der/Superl+Pl+Gen
-+A+Der/Superl+Pl+Acc
-+A+Der/Superl+Pl+Ill
-+A+Der/Superl+Pl+Loc
-+A+Der/Superl+Pl+Com
-+A+Der/Superl+Ess
+version https://git-lfs.github.com/spec/v1
+oid sha256:8c570f3d2ad7281831b007042505c610c71229644166ab7b2adb064168d38ec0
+size 574

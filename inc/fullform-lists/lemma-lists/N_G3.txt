@@ -1,27 +1,3 @@
-beassi
-álli
-! G3 = the conconant center is G3 and there is no consonant gradation or the consonant gradation is not marked in the orthography - e.g. láđºđi
-dearri
-dirri
-gearru
-gonne
-gállu
-gássa
-hálla
-hárri
-jáffu
-klássa
-rišša
-rássa
-sealla
-skirri
-snorri
-tálla
-vuorru
-šlámbbargássa
-boaldinsealla
-buollingássa
-goikegállu
-šaddoviessogássa
-molssagássa
-dielkogállu
+version https://git-lfs.github.com/spec/v1
+oid sha256:444e31902d01bf596be52bdda04df5388bd8424c735f80f3465370281dbbe59c
+size 382

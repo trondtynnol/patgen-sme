@@ -1,13 +1,3 @@
-+A+Ord+Sg+Nom
-+A+Ord+Sg+Gen
-+A+Ord+Sg+Acc
-+A+Ord+Sg+Ill
-+A+Ord+Sg+Loc
-+A+Ord+Sg+Com
-+A+Ord+Pl+Nom
-+A+Ord+Pl+Gen
-+A+Ord+Pl+Acc
-+A+Ord+Pl+Ill
-+A+Ord+Pl+Loc
-+A+Ord+Pl+Com
-+A+Ord+Ess
+version https://git-lfs.github.com/spec/v1
+oid sha256:ba53ff995ad6c4ccd57da55438f519fdb25933c5c7bc6064f5b7795624dd440c
+size 179

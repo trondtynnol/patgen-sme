@@ -1,9 +1,3 @@
-#!/bin/bash
-# invoke like ./generate.sh <lemma-file> <paradigm-file>
-# pipe the output through hdsmeNorm, remove ungenerated strings
-
-while read <&3 p; do
-    while read <&4 q; do
-        echo "$p$q"
-    done 4<$2
-done 3<$1
+version https://git-lfs.github.com/spec/v1
+oid sha256:49295dcbb4889ef520e4caa35a791978cfab00d05c95b1dc72c30d3b77a2d82b
+size 364
