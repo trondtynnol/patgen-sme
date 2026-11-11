@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:49295dcbb4889ef520e4caa35a791978cfab00d05c95b1dc72c30d3b77a2d82b
-size 364
+#!/bin/bash
+# invoke like ./generate.sh <lemma-file> <paradigm-file>
+# pipe the output through hdsmeNorm, remove ungenerated strings
+# Example pipeline: ./generate.sh lemma-lists/A_Ord.txt paradigms/A_Ord.par |hdsmeNorm|grep -v "?"|grep -v "^$"|cut -f2 |sort -u > A_Ord.txt
+
+while read <&3 p; do
+    while read <&4 q; do
+        echo "$p$q"
+    done 4<$2
+done 3<$1

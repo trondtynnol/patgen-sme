@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:35dd84bf563d82186ba2897790978bf732f05f08cf6dbfcf921e5d1245800b80
-size 153
++Num+Sg+Nom
++Num+Sg+Gen
++Num+Sg+Acc
++Num+Sg+Ill
++Num+Sg+Loc
++Num+Sg+Com
++Num+Pl+Nom
++Num+Pl+Gen
++Num+Pl+Acc
++Num+Pl+Ill
++Num+Pl+Loc
++Num+Pl+Com
++Num+Ess
