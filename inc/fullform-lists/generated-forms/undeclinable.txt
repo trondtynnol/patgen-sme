@@ -1,1 +1,1 @@
-lemma-lists/undeclinable.txt
+../lemma-lists/undeclinable.txt
